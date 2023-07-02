@@ -15,8 +15,8 @@ c=3;
 d=4;
 b=5;
 
-somma = a + b + c;
+somma = a + b + c + d + c;
 media= somma/5;
 
 console.log('somma:' + somma);
-console.log('media:' + media);
+console.log('media:' + media);  
